@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars_PersistentBugger",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Ends_With", "String_Ends_With\String_Ends_With.csproj", "{429D773C-CA60-4266-BF62-95F528CF4E47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertAStringToANumber", "ConvertAStringToANumber\ConvertAStringToANumber.csproj", "{4E585280-1C2D-4AAC-8B6E-74A5041BB2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Needle_In_The_Haystack", "A_Needle_In_The_Haystack\A_Needle_In_The_Haystack.csproj", "{A1F759A6-FA8D-40E7-9A6F-654060FF6F8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{429D773C-CA60-4266-BF62-95F528CF4E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{429D773C-CA60-4266-BF62-95F528CF4E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{429D773C-CA60-4266-BF62-95F528CF4E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E585280-1C2D-4AAC-8B6E-74A5041BB2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E585280-1C2D-4AAC-8B6E-74A5041BB2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E585280-1C2D-4AAC-8B6E-74A5041BB2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E585280-1C2D-4AAC-8B6E-74A5041BB2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F759A6-FA8D-40E7-9A6F-654060FF6F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F759A6-FA8D-40E7-9A6F-654060FF6F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F759A6-FA8D-40E7-9A6F-654060FF6F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F759A6-FA8D-40E7-9A6F-654060FF6F8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
