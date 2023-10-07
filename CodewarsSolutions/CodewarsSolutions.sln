@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Needle_In_The_Haystack", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Repeat", "String_Repeat\String_Repeat.csproj", "{7C8E09A3-D14C-4E2A-B01B-0F412E60EF37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To_Jaden_Case", "To_Jaden_Case\To_Jaden_Case.csproj", "{F47D58D9-38E6-4F8C-9E01-C7DA1EDABFA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Every_Digit", "Square_Every_Digit\Square_Every_Digit.csproj", "{FC58305E-19B6-499D-B662-F35886A75913}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{7C8E09A3-D14C-4E2A-B01B-0F412E60EF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C8E09A3-D14C-4E2A-B01B-0F412E60EF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C8E09A3-D14C-4E2A-B01B-0F412E60EF37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47D58D9-38E6-4F8C-9E01-C7DA1EDABFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47D58D9-38E6-4F8C-9E01-C7DA1EDABFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47D58D9-38E6-4F8C-9E01-C7DA1EDABFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47D58D9-38E6-4F8C-9E01-C7DA1EDABFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC58305E-19B6-499D-B662-F35886A75913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC58305E-19B6-499D-B662-F35886A75913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC58305E-19B6-499D-B662-F35886A75913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC58305E-19B6-499D-B662-F35886A75913}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
