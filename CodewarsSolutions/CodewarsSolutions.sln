@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To_Jaden_Case", "To_Jaden_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Every_Digit", "Square_Every_Digit\Square_Every_Digit.csproj", "{FC58305E-19B6-499D-B662-F35886A75913}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opposites_Attract", "Opposites_Attract\Opposites_Attract.csproj", "{145BA7C2-812F-4BFE-9900-771B338EF598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FC58305E-19B6-499D-B662-F35886A75913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC58305E-19B6-499D-B662-F35886A75913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC58305E-19B6-499D-B662-F35886A75913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145BA7C2-812F-4BFE-9900-771B338EF598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145BA7C2-812F-4BFE-9900-771B338EF598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145BA7C2-812F-4BFE-9900-771B338EF598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145BA7C2-812F-4BFE-9900-771B338EF598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
