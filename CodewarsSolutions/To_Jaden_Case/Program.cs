@@ -11,6 +11,7 @@ namespace To_Jaden_Case
     {
         static void Main(string[] args)
         {
+
         }
 
         static string ToJadenCase(string pharase)
