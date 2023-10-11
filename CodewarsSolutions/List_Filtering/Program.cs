@@ -14,17 +14,7 @@ namespace List_Filtering
 
         static IEnumerable<int> GetIntegersFromList(List<object> listOfItems)
         {
-            List<int> integers = new List<int>();
-
-            foreach (object item in listOfItems)
-            {
-                if (item is int)
-                {
-                    integers.Add((int)item);
-                }
-            }
-
-            return integers;
+            return listOfItems.Where(item => item is int).Cast<int>();
         }
     }
 }
