@@ -7,7 +7,10 @@ namespace Multiples_of_3_or_5
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine(Solution(10));
+            Console.WriteLine(Solution(20));
+            Console.WriteLine(Solution(200));
+            Console.WriteLine(Solution(0));
         }
         
         static int Solution(int value)
